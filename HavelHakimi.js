@@ -1,3 +1,5 @@
+//https://www.reddit.com/r/dailyprogrammer/comments/bqy1cf/20190520_challenge_378_easy_the_havelhakimi/
+
 const warmupArray1 = [5, 3, 0, 2, 6, 2, 0, 7, 2, 5];
 const warmupArray2 = [4, 0, 0, 1, 3];
 const warmupArray3 = [1, 2, 3];
